@@ -1,6 +1,6 @@
 import pytest
 import allure
-from app import get_json
+from src.app import get_json
 
 @pytest.mark.asyncio
 @allure.feature("JSON response")
