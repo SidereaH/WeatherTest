@@ -1,0 +1,5 @@
+aiohttp
+pytest  
+pytest-aiohttp 
+pytest-cov 
+allure-pytest
